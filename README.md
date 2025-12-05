@@ -137,5 +137,6 @@ AISHA is licensed under the **MIT License**. Feel free to modify and use it as n
 
 ## Contact
 
-For any issues or queries, reach out to us at **[dhairya2arora@gmail.com](mailto:dhairya2arora@gmail.com)**.
+For any issues or queries, reach out to us at **[unsapervaiz264@gmail.com](mailto:unsapervaiz264@gmail.com)**.
+
 
